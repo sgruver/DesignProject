@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_c27f262152974d08faa2687bd499e47127d5ec6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ab506c8ffb62d6e085fbf5d83c4ba2ded5ddfebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_3fdd8096d4056691fe5c0894784ca0509fc4dbe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4721fa0889cccbfd4c1aa1d05ebcec8fb6a3e96f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_b600ddf34b3921a5e642c17cc3ada940e37940c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2eff8f0280e90f1672d28b0c9f0898221c078cd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9a562b1190d06f1b21c2836c7bed69e3ea5b2bd">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\instant-run_2d8306f0d5ececf83e6d47081b109b15dcbc75ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_92874f4bd64adf50f4751296456f4868590c630c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_90f31e2a3f64fc77db65a2f47ee3a7d1a21dd59e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_337fa59389db5b58a13dc1b6c5d97cf21139f22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_b231e18ed453d7f3a77b27abac90bd1abb9d556e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="584d0f4edace6b5631142fb7f12e148b828df0af">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8762de4a1a1f529532ade966f142efe751de01ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_1d0c7cf62d4af9f158401c85c3b8a0da6e52e00f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5aafe6e88b3e0a78e41a21f7ce2ac34c9785a86b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_9bb083d9d42f9532e7bfa0fe9c32f339cee45527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d4947a317b2c54b1cf78f0e021e5c9e64a820fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Public\Android\GPS\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ff24ecceec9aef36182e45121c8c272d181785b2.jar" />
+    </item>
+
+</items>
